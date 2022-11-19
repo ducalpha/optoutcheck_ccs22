@@ -32,6 +32,8 @@ Duc Bui, Brian Tang, and Kang G. Shin
         - File `No-tracking.csv` contains the `stmt` and `No-tracking` columns from `multi_label_export.csv`.
         - File `No-data-collection.csv` contains the `stmt` and `No-data-collection` columns from `multi_label_export.csv`.
 
+### Opt-out Cookie Dataset
+
 - Folder `optout_cookie_dataset` contains files used to train (`train.csv`) and test (`test.csv`) the opt-out cookie classifier. Each of the files contains the following columns:
   - `name`: contains cookie names.
   - `value`: contains cookie values.
